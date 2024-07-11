@@ -1273,3 +1273,7 @@ section,
 /*.starter-section {
   /* Add your styles here 
 }*/
+
+#name-error, #email-error, #subject-error, #message-error, #submit-error{
+  color: #df1529;
+}
